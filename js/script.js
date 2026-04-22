@@ -12,6 +12,7 @@ document.querySelector('#menu-btn').onclick = () =>{
    userBox.classList.remove('active');
 }
 
+
 window.onscroll = () =>{
    userBox.classList.remove('active');
    navbar.classList.remove('active');
