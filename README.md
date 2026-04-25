@@ -45,6 +45,15 @@ Course Name  : Database Management System Lab
 
 🖼️ Project Preview
 <img width="990" height="983" alt="image" src="https://github.com/user-attachments/assets/cde0799a-bf67-4cc3-8129-d2c3b1221b0e" />
+<img width="948" height="902" alt="image" src="https://github.com/user-attachments/assets/5ba436a3-5295-45f5-9fdd-e147258ee50a" />
+<img width="1914" height="910" alt="image" src="https://github.com/user-attachments/assets/9cd785b7-92dc-4773-98ee-16ceb1312152" />
+<img width="1245" height="991" alt="image" src="https://github.com/user-attachments/assets/81cfa8cd-4c96-4eb8-8467-5cc9d374c89c" />
+<img width="1230" height="988" alt="image" src="https://github.com/user-attachments/assets/de22ffc1-6ab7-4316-b2e0-a888e54a3ca3" />
+<img width="1209" height="899" alt="image" src="https://github.com/user-attachments/assets/d44b6f5c-9c5b-4f52-890a-e22095724640" />
+<img width="1233" height="981" alt="image" src="https://github.com/user-attachments/assets/85b8ead0-e17d-4ec1-af61-c0227a3c905e" />
+
+
+
 
 
 
